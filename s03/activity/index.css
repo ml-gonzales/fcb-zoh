@@ -4,6 +4,7 @@
 	padding: 0;
 	color: whitesmoke;
 	box-sizing: border-box;
+	text-align: center;
 }
 
 nav{
@@ -16,6 +17,7 @@ nav{
 .nav-link{
 	margin-right: 2px;
 	margin-left: 2px;
+	text-align: center;
 }
 
 a {
@@ -96,7 +98,7 @@ a {
 .card {
     background-color: gray;
     height: 400px;
-    width: 650px;
+    width: 600px;
     border-radius: 75px;
     margin-left: auto;
     margin-right: auto;
@@ -108,7 +110,7 @@ a {
 
 .cardImg {
     height: 350px;
-    width: 600px;
+    width: 550px;
     border-radius: 50px;
     object-fit: cover;
 }
